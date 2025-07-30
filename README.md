@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, seja bem-vind@ ao meu GitHub! ❤️
 
-<!--
-**thaluanegomes/thaluanegomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Thaluane, estudante de Análise e Desenvolvimento de Sistemas.  
+Estou desenvolvendo projetos focados em Python, FastAPI, AWS, testes automatizados e boas práticas de engenharia de software.  
+Curiosa por tecnologia, adoro criar soluções eficientes e explorar novas ferramentas de desenvolvimento.
 
-Here are some ideas to get you started:
+![Pac-Man](https://media.giphy.com/media/6brH8qKWbL4fe/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Linguagens e Tecnologias**
+[![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)]()
+[![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)]()
+[![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)]()
+[![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)]()
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)]()
+[![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)]()
+
+---
+
+## 🌎 **Minhas redes**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaluane-gomes/)
+
+---
