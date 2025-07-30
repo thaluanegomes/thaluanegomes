@@ -6,7 +6,7 @@ Curiosa por tecnologia, adoro criar soluções eficientes e explorar novas ferra
 
 ![Pac-Man](https://media.giphy.com/media/6brH8qKWbL4fe/giphy.gif)
 
-## 🛠️ **Linguagens e Tecnologias**
+## **Linguagens e Tecnologias**
 [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)]()
 [![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)]()
 [![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)]()
@@ -16,7 +16,7 @@ Curiosa por tecnologia, adoro criar soluções eficientes e explorar novas ferra
 
 ---
 
-## 🌎 **Minhas redes**
+## **Minhas redes**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaluane-gomes/)
 
