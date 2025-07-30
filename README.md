@@ -1,4 +1,7 @@
-# Olá, seja bem-vind@ ao meu GitHub! ❤️
+<p align="center">
+  <b>Olá, seja bem-vind@ ao meu GitHub! 💛</b>
+</p>
+
 
 Meu nome é Thaluane, estudante de Análise e Desenvolvimento de Sistemas.  
 Estou desenvolvendo projetos focados em Python, FastAPI, AWS, testes automatizados e boas práticas de engenharia de software.  
