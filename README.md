@@ -5,14 +5,12 @@ Estou desenvolvendo projetos focados em Python, FastAPI, AWS, testes automatizad
 Curiosa por tecnologia, adoro criar soluções eficientes e explorar novas ferramentas de desenvolvimento.
 
 ## **Linguagens e Tecnologias**
-<p>
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" width="140" />
-  <img src="https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi" width="140" />
-  <img src="https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws" width="140" />
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" width="120" />
-  <img src="https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode" width="150" />
-  <img src="https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite" width="130" />
-</p>
+[![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)]()
+[![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)]()
+[![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)]()
+[![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)]()
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)]()
+[![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)]()
 
 ---
 
