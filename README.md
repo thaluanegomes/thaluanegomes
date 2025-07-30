@@ -20,5 +20,7 @@ Curiosa por tecnologia, adoro criar soluções eficientes e explorar novas ferra
 
 ---
 
-![Pac-Man](https://i.imgur.com/aPUEB6b.gif)
+<p align="center">
+  <img src="https://c.tenor.com/llSAvv3PxdAAAAAC/tenor.gif" alt="Pac-Man">
+</p>
 
