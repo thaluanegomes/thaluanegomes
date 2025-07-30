@@ -4,7 +4,7 @@ Meu nome é Thaluane, estudante de Análise e Desenvolvimento de Sistemas.
 Estou desenvolvendo projetos focados em Python, FastAPI, AWS, testes automatizados e boas práticas de engenharia de software.  
 Curiosa por tecnologia, adoro criar soluções eficientes e explorar novas ferramentas de desenvolvimento.
 
-![Pac-Man](https://media.giphy.com/media/6brH8qKWbL4fe/giphy.gif)
+![Pac-Man]([https://media.giphy.com/media/6brH8qKWbL4fe/giphy.gif](https://imgur.com/gallery/pac-man-yMMpspz#aPUEB6b)
 
 ## **Linguagens e Tecnologias**
 [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)]()
