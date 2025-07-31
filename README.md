@@ -1,8 +1,7 @@
 # Olá, seja bem-vind@ ao meu GitHub! ❤️
 
-Meu nome é Thaluane, estudante de Análise e Desenvolvimento de Sistemas.  
-Estou desenvolvendo projetos focados em Python, FastAPI, AWS, testes automatizados e boas práticas de engenharia de software.  
-Curiosa por tecnologia, adoro criar soluções eficientes e explorar novas ferramentas de desenvolvimento.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e desafios de programação.  
+Estou desenvolvendo projetos com foco em Python, FastAPI, AWS e boas práticas de engenharia de software.
 
 ## **Linguagens e Tecnologias**
 [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)]()
