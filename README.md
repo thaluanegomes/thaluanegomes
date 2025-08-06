@@ -3,7 +3,7 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e desafios de programação.  
 Estou desenvolvendo projetos com foco em Python, FastAPI, AWS e boas práticas de engenharia de software.
 
-## **Linguagens e Tecnologias **
+## **Linguagens e Tecnologias**
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -16,9 +16,19 @@ Estou desenvolvendo projetos com foco em Python, FastAPI, AWS e boas práticas d
 
 ---
 
-## **Minhas redes**
+## **Onde me encontrar**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaluane-gomes/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/thaluane-gomes/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/thaluanegomes" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:thaluaneg@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
