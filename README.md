@@ -36,14 +36,6 @@ Estou desenvolvendo projetos com foco em Python, lógica de programação, anál
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaluanegomes&show_icons=true&theme=maroongold&title_color=FF69B4&icon_color=FF69B4&text_color=FFB6C1&bg_color=0D1117" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaluanegomes&layout=compact&langs_count=8&theme=maroongold&title_color=FF69B4&text_color=FFB6C1&bg_color=0D1117" />
 
-## 🐍 Snake (contribuições animadas)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thaluanegomes/thaluanegomes/output/github-contribution-grid-snake-pink.svg" />
+<h1 align="center">Snake 🐍</h1><p align="center">
+  <img src="https://raw.githubusercontent.com/thaluanegomes/thaluanegomes/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-
-<p align="center">
-  <img src="https://media.tenor.com/uqKq6SlKyR8AAAAj/pink-heart.gif" alt="Coração Rosa" width="400" />
-</p>
-
