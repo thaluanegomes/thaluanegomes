@@ -4,7 +4,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnolog
 Estou desenvolvendo projetos com foco em Python, FastAPI, AWS e boas práticas de engenharia de software.
 
 ## **Linguagens e Tecnologias**
-[![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)]()
+[![Python]([https://img.shields.io/badge/-Python-333333?style=flat&logo=python](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png))]()
 [![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)]()
 [![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)]()
 [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)]()
