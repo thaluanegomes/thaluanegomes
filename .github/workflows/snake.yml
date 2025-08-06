@@ -1,9 +1,9 @@
-name: Snake Game 📈
+name: Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Atualiza toda noite à meia-noite UTC
-  workflow_dispatch:     # Permite rodar manualmente no Actions
+    - cron: "0 0 * * *"  
+  workflow_dispatch:     
 
 jobs:
   generate:
@@ -15,7 +15,7 @@ jobs:
       - name: Gerar SVG da Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: thaluanegomes  # Seu usuário do GitHub
+          github_user_name: thaluanegomes  #altere para seu nome de usuario caso queira usar de inspiração
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=FF69B4&color_dots=#f8bbd0,#f48fb1,#ec407a,#e91e63,#d81b60
