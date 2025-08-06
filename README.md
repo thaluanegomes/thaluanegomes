@@ -38,6 +38,5 @@ Estou desenvolvendo projetos com foco em Python, lógica de programação, anál
 </p>
 
 <p align="center">
-  <img src="https://c.tenor.com/llSAvv3PxdAAAAAC/tenor.gif" alt="Pac-Man">
+  <img src="[https://media.tenor.com/pink-glow-code.gif](https://media.tenor.com/uqKq6SlKyR8AAAAj/pink-heart.gif)" width="400" />
 </p>
-
