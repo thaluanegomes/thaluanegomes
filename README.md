@@ -16,7 +16,7 @@ Estou desenvolvendo projetos com foco em Python, lógica de programação, anál
 
 ---
 
-## **Onde me encontrar** 👩‍💻
+<h1 align="center">Onde me encontrar 👩‍💻</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thaluane-gomes/" target="_blank">
