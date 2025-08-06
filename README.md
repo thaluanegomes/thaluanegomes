@@ -3,13 +3,19 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e desafios de programação.  
 Estou desenvolvendo projetos com foco em Python, FastAPI, AWS e boas práticas de engenharia de software.
 
-## **Linguagens e Tecnologias**
-[![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python]](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)(https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)]()
-[![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)]()
-[![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)]()
-[![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)]()
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)]()
-[![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)]()
+## **Linguagens e Tecnologias que estou aprendendo**
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Análise%20de%20Dados-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Engenharia%20de%20Software-1976D2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Segurança%20da%20Informação-9C27B0?style=for-the-badge" />
+</p>
 
 ---
 
