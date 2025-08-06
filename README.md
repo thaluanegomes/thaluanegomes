@@ -1,11 +1,9 @@
-<p align="center">
-# Olá, seja bem-vind@ ao meu GitHub! ❤️
+<h1 align="center"> Olá, seja bem-vind@ ao meu GitHub! ❤️</h1>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e desafios de programação.  
-Estou desenvolvendo projetos com foco em Python, FastAPI, AWS e boas práticas de engenharia de software.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, programação e desafios que envolvam dados.  
+Estou desenvolvendo projetos com foco em Python, lógica de programação, análise de dados e boas práticas de engenharia de software.
 
-<p align="center">
-## **Linguagens e Tecnologias**
+<h1 align="center">Linguagens e Tecnologias 🚀</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -18,7 +16,7 @@ Estou desenvolvendo projetos com foco em Python, FastAPI, AWS e boas práticas d
 
 ---
 
-## **Onde me encontrar**
+## **Onde me encontrar** 👩‍💻
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thaluane-gomes/" target="_blank">
