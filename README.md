@@ -1,8 +1,10 @@
+<p align="center">
 # Olá, seja bem-vind@ ao meu GitHub! ❤️
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e desafios de programação.  
 Estou desenvolvendo projetos com foco em Python, FastAPI, AWS e boas práticas de engenharia de software.
 
+<p align="center">
 ## **Linguagens e Tecnologias**
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
