@@ -19,13 +19,13 @@ Estou desenvolvendo projetos com foco em Python, lógica de programação, anál
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thaluanegomes" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" title="LinkedIn" />
   </a>
 <a href="https://github.com/thaluanegomes" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" height="40" title="GitHub" />
 </a>
   <a href="mailto:thaluaneg@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" alt="Email" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" title="Email" />
   </a>
 </p>
 
