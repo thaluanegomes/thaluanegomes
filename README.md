@@ -4,11 +4,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnolog
 Estou desenvolvendo projetos com foco em Python, lógica de programação, análise de dados e boas práticas de engenharia de software.
 
 <h1 align="center">Linguagens e Tecnologias 🚀</h1>
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" height="40" title="SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" height="40" title="GitHub" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" height="40" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas" />
 </p>
@@ -22,7 +22,7 @@ Estou desenvolvendo projetos com foco em Python, lógica de programação, anál
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
 <a href="https://github.com/thaluanegomes" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" height="40" alt="GitHub" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" height="40" title="GitHub" />
 </a>
   <a href="mailto:thaluaneg@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" alt="Email" />
