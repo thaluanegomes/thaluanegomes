@@ -18,7 +18,7 @@ Estou desenvolvendo projetos com foco em Python, lógica de programação, anál
 <h1 align="center">Onde me encontrar 👩‍💻</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thaluanegomes" target="_blank">
+  <a href="https://www.linkedin.com/in/thaluane-gomes" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" title="LinkedIn" />
   </a>
 <a href="https://github.com/thaluanegomes" target="_blank">
