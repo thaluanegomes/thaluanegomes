@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#FF69B4;">Olá, seja bem-vind@ ao meu GitHub! 💖</h1>
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, programação e desafios que envolvam dados.  
-Estou desenvolvendo projetos com foco em Python, lógica de programação, análise de dados e boas práticas de engenharia de software.
+Estou desenvolvendo projetos com foco em Python, lógica de programação e análise de dados.
 
 <h1 align="center">Linguagens e Tecnologias 🚀</h1>
 <p align="center">
